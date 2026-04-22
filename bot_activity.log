@@ -1,0 +1,3 @@
+time=2026-04-22T20:04:47 | action=laundry_created | user=Вайнтруб Роман Евгеньевич | booking_id=1 | booking=Стирка: Смешанные вещи | start_at=2026-04-22T20:30:00+03:00 | end_at=2026-04-22T22:00:00+03:00
+time=2026-04-22T20:05:10 | action=laundry_created | user=Вайнтруб Роман Евгеньевич | booking_id=2 | booking=Сушка: Сушка | start_at=2026-04-22T20:30:00+03:00 | end_at=2026-04-22T23:30:00+03:00
+time=2026-04-22T20:06:24 | action=registration_submitted | user=Вайнтруб Роман Евгеньевич | telegram_id=1748361143 | role=Ученик 11И
